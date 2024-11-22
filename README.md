@@ -1,4 +1,4 @@
-## Hi there 👋
+## My name is M Abubakar Ali I am a software engineer student.
 
 <!--
 **abubakaraly/abubakaraly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
